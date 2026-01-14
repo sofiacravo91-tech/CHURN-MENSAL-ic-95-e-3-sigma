@@ -1,0 +1,23 @@
+CHURN,M histórico,Mês atual
+média,4%,
+desvio padrão,"0,60%",
+base ativa,5000,
+cancelamentos,,260
+,,
+Calculos,,
+média,"5000,0",
+3 sigma,"1,80%",
+conversão cancelamento->base ativa ultimo mes,"5,20%",
+,,
+Intervalo 3 sigma,"2,20%","5,8%"
+Intervalo 2 sigma,"2,80%","5,2%"
+Intervalo 1 sigma,"3,40%","4,60%"
+,,
+,"0,62%",
+IC 95%,"5,82%","4,58%"
+,,
+2.1 O churn observado é um evento raro (3σ)?,"não, pois está no range de 3 sigma entre 2,20%     e   5,8%",
+,,
+2.2 Calcule o IC 95% do churn do mês.,"5,82%","4,58%"
+,,
+2.3 Você escalaria isso para liderança?,"sim, pois a media historica está fora do IC 95% de churn do mes",
